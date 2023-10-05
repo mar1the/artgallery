@@ -89,7 +89,7 @@
 .headings {
     text-align: center;
     font-family: 'Roboto Mono', monospace;
-    color: white;
+    color: rgb(236, 181, 0);
     margin: 30px;
 
 }
@@ -101,6 +101,11 @@
     text-align: center;
  
 
+}
+
+.prices-info {
+    padding-top: 20px;
+    color: rgb(236, 181, 0);
 }
 
 .navbar {
