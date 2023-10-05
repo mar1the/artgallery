@@ -128,7 +128,6 @@
     background-color: #370057;
     font-family: 'Roboto Mono', monospace;
     
-  
 }
 
 .nav-links {
@@ -151,6 +150,18 @@
     font-weight: bold;
     background-color: #370057;
     font-family: 'Roboto Mono', monospace;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    padding: 50px;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+}
+
+.footer a {
+    color: rgb(236, 181, 0);
 }
 
 
