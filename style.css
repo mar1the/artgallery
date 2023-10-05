@@ -65,6 +65,7 @@
         columns: 3;
         column-gap: 15px;
     }
+    
 }
 @media (max-width: 768px)
 {
@@ -90,6 +91,15 @@
     font-family: 'Roboto Mono', monospace;
     color: white;
     margin: 30px;
+
+}
+.content{
+ 
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    padding-bottom: 30px;
+    text-align: center;
+ 
 
 }
 
@@ -137,4 +147,6 @@
     background-color: #370057;
     font-family: 'Roboto Mono', monospace;
 }
+
+
 
